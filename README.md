@@ -20,13 +20,12 @@ A lab track on distributed systems, with a focus on correctness and fault tolera
 ### Writing
 
 - [Kokonatt Blog](https://www.kokonatt.com/): my personal blog where I write about the things I build and learn
-- [Python in Production](https://www.kokonatt.com/series/python-in-production/): a series on modern Python covering architecture, robustness, async concurrency, and Rust-Python FFI
+- [Python in Production](https://www.kokonatt.com/series/python-in-production/): a series on modern Python covering architecture, robustness, and async concurrency
 
 ### Open source
 
 - [Ockam](https://github.com/build-trust/ockam): owned the CLI, the primary product surface of this open-source trust infrastructure; wrote core Rust modules including the WebSocket transport and library macros
-- [lora-gps-tracker](https://github.com/adrianbenavides/lora-gps-tracker): GPS live tracking with ESP8266, LoRa modules, and Balena
-- [esp8266-mqtt-experiments](https://github.com/adrianbenavides/esp8266-mqtt-experiments): MQTT experiments with ESP-8266 and a dockerized RPi
+- Hobby projects in the embedded domain that got quite popular on Hackster: [lora-gps-tracker](https://github.com/adrianbenavides/lora-gps-tracker), [esp8266-mqtt-experiments](https://github.com/adrianbenavides/esp8266-mqtt-experiments)
 
 ### Learning
 
