@@ -29,7 +29,7 @@ A lab track on distributed systems, with a focus on correctness and fault tolera
 
 ### Learning
 
-Working through binary analysis, applied cryptography, real-time systems, and probabilistic robotics (the foundations the lab track builds on).
+Working through binary analysis, applied cryptography, distributed systems, real-time systems.
 
 ### Tech
 
