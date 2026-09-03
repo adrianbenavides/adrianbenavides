@@ -8,6 +8,7 @@ Backend engineer with 10+ years of experience, 5+ of them in Rust and Python acr
 - 🤝 Open to collaborating on Rust projects in the low-level systems space (no_std parsers, fuzzing, secure networking, distributed systems) and Python data projects, especially PyO3 wrappers around high-performance Rust/C code
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adribenavides) or read my [blog](https://www.kokonatt.com/)
 
+<!--
 ### Currently building
 
 A lab track on distributed systems, with a focus on correctness and fault tolerance:
@@ -16,6 +17,7 @@ A lab track on distributed systems, with a focus on correctness and fault tolera
 - Secure data buses: field-level envelope encryption for telemetry over untrusted networks, with a deterministic fault-injection harness
 - Multi-sensor track fusion: a dataflow pipeline that fuses noisy sensor streams into a single trustworthy estimate under a hard timing budget
 - Fleet coordination: decentralized task allocation and state sync across partition-prone wireless meshes
+-->
 
 ### Writing
 
@@ -29,7 +31,7 @@ A lab track on distributed systems, with a focus on correctness and fault tolera
 
 ### Learning
 
-Working through binary analysis, applied cryptography, distributed systems, real-time systems.
+Working through applied cryptography, distributed systems, real-time systems.
 
 ### Tech
 
