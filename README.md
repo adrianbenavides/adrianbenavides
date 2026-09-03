@@ -5,7 +5,7 @@ Backend engineer with 10+ years of experience, 5+ of them in Rust and Python acr
 - 🔭 Building a C99 library that gives engineers cycle-accurate visibility into compute vs memory-bound bottlenecks across ARM and x86 targets
 - 🌱 Writing a blog series on [Python in Production](https://www.kokonatt.com/series/python-in-production/) (architecture, robustness, async & FFI)
 - 💬 Ask me about Rust, Python, distributed systems, and embedded
-- 🤝 Open to collaborating on Rust projects in the low-level systems space (no_std parsers, fuzzing, secure networking, distributed systems) and Python data projects, especially PyO3 wrappers around high-performance Rust/C code
+- 🤝 Open to collaborating on Rust projects in the low-level systems space and Python data projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adribenavides) or read my [blog](https://www.kokonatt.com/)
 
 <!--
