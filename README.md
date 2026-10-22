@@ -3,36 +3,7 @@
 Backend engineer with 10+ years of experience, 5+ of them in Rust and Python across high-performance backend and developer-facing systems. I work on distributed systems, secure networking, and low-level infrastructure. I occasionally write about what I build.
 
 - 🔭 Building a C99 library that gives engineers cycle-accurate visibility into compute vs memory-bound bottlenecks across ARM and x86 targets
-- 🌱 Writing a blog series on [Python in Production](https://www.kokonatt.com/series/python-in-production/) (architecture, robustness, async & FFI)
+- 🌱 Writing a blog series on [Python in Production](https://www.kokonatt.com/series/python-in-production/) (architecture, robustness, async & FFI), mostly as a teaching guide for juniors devs at work
 - 💬 Ask me about Rust, Python, distributed systems, and embedded
 - 🤝 Open to collaborating on Rust projects in the low-level systems space and Python data projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adribenavides) or read my [blog](https://www.kokonatt.com/)
-
-<!--
-### Currently building
-
-A lab track on distributed systems, with a focus on correctness and fault tolerance:
-
-- Hermetic Rust toolchains: reproducible Nix flake cross-compilation for bare-metal ARM, with fuzzing of a `no_std` binary
-- Secure data buses: field-level envelope encryption for telemetry over untrusted networks, with a deterministic fault-injection harness
-- Multi-sensor track fusion: a dataflow pipeline that fuses noisy sensor streams into a single trustworthy estimate under a hard timing budget
-- Fleet coordination: decentralized task allocation and state sync across partition-prone wireless meshes
--->
-
-### Writing
-
-- [Kokonatt Blog](https://www.kokonatt.com/): my personal blog where I write about the things I build and learn
-- [Python in Production](https://www.kokonatt.com/series/python-in-production/): a series on modern Python covering architecture, robustness, and async concurrency
-
-### Open source
-
-- [Ockam](https://github.com/build-trust/ockam): owned the CLI, the primary product surface of this open-source trust infrastructure; wrote core Rust modules including the WebSocket transport and library macros
-- Hobby projects in the embedded domain that got quite popular on Hackster: [lora-gps-tracker](https://github.com/adrianbenavides/lora-gps-tracker), [esp8266-mqtt-experiments](https://github.com/adrianbenavides/esp8266-mqtt-experiments)
-
-### Learning
-
-Working through applied cryptography, distributed systems, real-time systems.
-
-### Tech
-
-Rust · Python · C · PostgreSQL · MongoDB · Kafka · RabbitMQ · Docker · Kubernetes · AWS
